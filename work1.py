@@ -1,1 +1,1 @@
-print("HelloWolud")
+x = input("X :")
